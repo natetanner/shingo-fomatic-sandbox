@@ -1,0 +1,24 @@
+{
+  "name": "shingo-fomatic-sandbox",
+  "version": "1.0.0",
+  "description": "Fomantic sandbox for Shingo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natetanner/shingo-fomatic-sandbox.git"
+  },
+  "author": "Nate Tanner <nate.tanner@usu.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natetanner/shingo-fomatic-sandbox/issues"
+  },
+  "homepage": "https://github.com/natetanner/shingo-fomatic-sandbox#readme",
+  "dependencies": {
+    "@octokit/core": "^3.2.5",
+    "fomantic-ui": "^2.8.7",
+    "url-regex-safe": "^2.0.2"
+  }
+}
